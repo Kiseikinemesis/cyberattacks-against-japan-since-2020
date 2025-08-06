@@ -6,13 +6,13 @@
  Lazarus Group                 | North Korea     | Banks, crypto, infrastructures       | Phishing, financial malware, ransom   | Attack on Sony, WannaCry, theft of Japanese crypto 
  APT37 (Ricochet Chollima)     | North Korea     | Japanese media, NOGs, dissidents     | Infected attachements, espionage      | Campaigns against Japanese journalists (2020s)     
  APT29 (Cozy Bear)             | Russia          | Diplomacy, think tanks               | Espionage with custom-made software   | Potential interest in Japan (cyber diplomacy)      
- Pandora                       | Pro-Russian     | Critical infrastructure, governments | DDoS attacks, web defacement	        | Attacks on Japanese government websites (2023)
- Killnet                       | Pro-Russian	   | Gov websites, private sector 	      | DDoS, hacktivist campaigns	          | DDoS against Japanese gov portals (2022–2023)
- LockBit 3.0                   | Cybercriminal   | Enterprises (Japan, global)	        | Ransomware-as-a-service (RaaS)	      | Ransomware attacks on Japanese companies (2023)
- BlackSuite                    | Cybercriminal	 | Enterprises (IT, manufacturing)	    | Double extortion ransomware	          | Data theft and encryption campaigns (2023)
- 8Base                         | Cybercriminal	 | SMEs, manufacturing, finance	        | Ransomware with data leak sites	      | Targeted ransomware campaigns (global, 2023)
- INC RANSOM                    | Cybercriminal	 | Enterprises (finance, healthcare)	  | Ransomware, data theft	              | Ransomware attacks with data leaks (2023)
- SAFEPAY	                     | Cybercriminal	 | Individuals, financial institutions	| Banking trojan, phishing	            | Banking credential theft campaigns (global)
+ Pandora                       | Pro-Russian     | Critical infrastructure, governments | DDoS attacks, web defacement	         | Attacks on Japanese government websites (2023)
+ Killnet                       | Pro-Russian	    | Gov websites, private sector 	       | DDoS, hacktivist campaigns	           | DDoS against Japanese gov portals (2022–2023)
+ LockBit 3.0                   | Cybercriminal   | Enterprises (Japan, global)	         | Ransomware-as-a-service (RaaS)	       | Ransomware attacks on Japanese companies (2023)
+ BlackSuite                    | Cybercriminal	  | Enterprises (IT, manufacturing)	     | Double extortion ransomware	          | Data theft and encryption campaigns (2023)
+ 8Base                         | Cybercriminal	  | SMEs, manufacturing, finance	        | Ransomware with data leak sites	      | Targeted ransomware campaigns (global, 2023)
+ INC RANSOM                    | Cybercriminal	  | Enterprises (finance, healthcare)	   | Ransomware, data theft	               | Ransomware attacks with data leaks (2023)
+ SAFEPAY	                      | Cybercriminal	  | Individuals, financial institutions	 | Banking trojan, phishing	             | Banking credential theft campaigns (global)
 
 
 
