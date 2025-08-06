@@ -1,0 +1,98 @@
+
+ APT Group                     | Origin          | Main Targets                         | Methods / TTPs                        | attack Exemples                                    
+ ----------------------------- |  -----------    |    --------------------------------  | ------------------------------------- | -------------------------------------------------- 
+ APT10 (Stone Panda)           | China           | Japan, USA, Tech industries          | Phishing, VPN  exploitation, malwares | Cloud Hopper campaign (2017), data theft in Japan  
+ MirrorFace                    | China           | Japan (governement, press)           | Malicious emails, malwares, backdoors | Attack on Japanese journalists (2022)              
+ Lazarus Group                 | North Korea     | Banks, crypto, infrastructures       | Phishing, financial malware, ransom   | Attack on Sony, WannaCry, theft of Japanese crypto 
+ APT37 (Ricochet Chollima)     | North Korea     | Japanese media, NOGs, dissidents     | Infected attachements, espionage      | Campaigns against Japanese journalists (2020s)     
+ APT29 (Cozy Bear)             | Russia          | Diplomacy, think tanks               | Espionage with custom-made software   | Potential interest in Japan (cyber diplomacy)      
+ Pandora                       | Pro-Russian     | Critical infrastructure, governments | DDoS attacks, web defacement	        | Attacks on Japanese government websites (2023)
+ Killnet                       | Pro-Russian	   | Gov websites, private sector 	      | DDoS, hacktivist campaigns	          | DDoS against Japanese gov portals (2022–2023)
+ LockBit 3.0                   | Cybercriminal   | Enterprises (Japan, global)	        | Ransomware-as-a-service (RaaS)	      | Ransomware attacks on Japanese companies (2023)
+ BlackSuite                    | Cybercriminal	 | Enterprises (IT, manufacturing)	    | Double extortion ransomware	          | Data theft and encryption campaigns (2023)
+ 8Base                         | Cybercriminal	 | SMEs, manufacturing, finance	        | Ransomware with data leak sites	      | Targeted ransomware campaigns (global, 2023)
+ INC RANSOM                    | Cybercriminal	 | Enterprises (finance, healthcare)	  | Ransomware, data theft	              | Ransomware attacks with data leaks (2023)
+ SAFEPAY	                     | Cybercriminal	 | Individuals, financial institutions	| Banking trojan, phishing	            | Banking credential theft campaigns (global)
+
+
+
+>> Case study: APT10 vs Japan
+      Context:
+        The APT10 group, linked to the Chinese Ministry of State Security, carried out a cyber-espionage campaign against Japanese institutions.
+      Attack details:
+        Target:      Japanese technology companies, government agencies
+        Method:      exploitation of VPN vulnerabilities, targeted spear phishing
+        Payload:     custom malware, backdoors for persistent access
+        Duration:    intrusion over several months in 2018–2019
+        Objectives:  theft of industrial data, trade secrets, sensitive patents
+        Response:    joint investigation by the FBI and Japanese authorities, publication of IOCs (indicators of compromise) by JPCERT
+      Lessons learned:
+        Japan is viewed as a long-term strategic target
+        Chinese APTs use highly sophisticated tools, tailored to local infrastructures
+        Highlights the importance of proactive intelligence (CTI) and international cooperation
+
+>> Case study: APT37 vs Japan
+      Context:
+        The APT37 group, associated with North Korea, has targeted Japanese media, NGOs, and dissidents as part of its cyber-espionage operations.
+      Attack details:
+        Target: Japanese media organizations, NGOs, political dissidents
+        Method: malicious attachments in spear-phishing emails, watering-hole attacks
+        Payload: custom spyware and remote access tools (RATs) for surveillance
+        Duration: multiple campaigns during the 2020s
+        Objectives: intelligence gathering, monitoring of dissident groups, influence operations
+        Response: alerts issued by JPCERT and collaboration with private CTI firms for detection and mitigation
+      Lessons learned:
+        North Korean cyber units focus on surveillance of political and media sectors
+        Use of social engineering is prevalent, with well-crafted phishing lures in Japanese
+        Emphasizes the need for awareness training and strong endpoint defenses
+
+>> Case study: APT29 vs Japan
+    Context:
+      The APT29 group, tied to Russia’s Foreign Intelligence Service (SVR), is primarily known for targeting diplomacy and think tanks,
+        with growing interest in Japan’s cyber-diplomatic ecosystem.
+    Attack details:
+      Target: diplomatic institutions, research centers, policy think tanks in Japan
+      Method: spear phishing, credential harvesting, exploitation of zero-day vulnerabilities
+      Payload: custom malware and stealthy backdoors designed for long-term access
+      Duration: observed activities from late 2021 onward
+      Objectives: intelligence collection on Japan’s foreign policy and alliances
+      Response: international CTI collaboration (notably with US/EU partners) and increased monitoring by Japanese CERTs
+    Lessons learned:
+      Russian APTs maintain stealthy and persistent access for geopolitical intelligence
+      Their operations show strong OPSEC, making detection challenging
+      Reinforces the value of multi-national intelligence sharing and advanced monitoring solutions
+
+>> Case study: Killnet vs Japan
+    Context:
+      Killnet is a pro-Russian hacktivist group known for conducting DDoS attacks against countries supporting Ukraine. 
+      Japan has been a target due to its alignment with Western sanctions against Russia.
+    Attack details:
+      Target: Japanese government websites, transportation services, and financial institutions
+      Method: large-scale Distributed Denial of Service (DDoS) attacks
+      Payload: botnet-driven network floods disrupting public access
+      Duration: multiple attacks during mid-2022 to 2023
+      Objectives: political protest against Japan’s stance on Ukraine, disruption of public services
+      Response: rapid mitigation by Japanese ISPs and cybersecurity teams, public warnings issued by JPCERT
+    Lessons learned:
+      Hacktivist groups can cause high-visibility disruptions without breaching data
+      Japan’s reliance on online public services makes DDoS mitigation critical
+      Highlights the importance of robust network defense and ISP-level cooperation
+
+>> Case study: Pandora vs Japan
+    Context:
+      Pandora is a ransomware group operating as part of the Ransomware-as-a-Service (RaaS) ecosystem, targeting Japanese corporations 
+        and municipal services for financial extortion.
+    Attack details:
+      Target: manufacturing companies, healthcare providers, local governments
+      Method: phishing emails leading to ransomware deployment, exploitation of unpatched servers
+      Payload: data encryption ransomware with exfiltration for double extortion
+      Duration: active campaigns noted throughout 2023
+      Objectives: financial gain through ransom payments and selling stolen data
+      Response: coordinated incident response with law enforcement, emphasis on backups and patching
+    Lessons learned:
+      Ransomware actors increasingly blend data theft and encryption to pressure victims
+      Japanese organizations remain vulnerable due to legacy systems and insufficient segmentation
+      Underlines the necessity of proactive patch management and incident response planning
+
+
+This file is intended to evolve with time and future attacks.
