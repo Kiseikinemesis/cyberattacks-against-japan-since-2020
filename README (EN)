@@ -1,0 +1,84 @@
+# Mapping Major Cyber Incidents in Japan since 2020
+
+
+📍 View the interactive map:
+🔗 https://datawrapper.dwcdn.net/KKQh4/3/
+
+Geopolitical Reading of an Expanding Attack Surface
+
+🎯 Objectives & Method
+
+This monitoring project aims to map and analyze the major cyber incidents targeting Japan between 2019 and 2024.
+It is based on:
+
+* Manual open-source research
+* Creation of a structured tracking table
+* A cartographic visualization built with Datawrapper
+
+🧠 Threat Landscape: Who is Attacking Japan?
+
+Japan is currently facing a complex cyber landscape, with multiple actor types driven by distinct motivations:
+
+| Actor Type                    | Identified Groups           | Primary Motivation                         |
+| ----------------------------  | --------------------------- | ------------------------------------------ |
+| 🟥 State / APT               | APT10, MirrorFace (China)   | Technological & military espionage         |
+| 🟨 Cybercriminals            | LockBit, BlackSuit, Pandora | Ransom, extortion, data resale             |
+| 🟦 Hacktivists / Proxies     | Killnet (pro-Russia)        | Political retaliation, information warfare |
+
+
+🏭 Key Targets: Strategic Sectors in Focus
+
+Recurring incidents show a clear targeting of critical and strategic sectors:
+
+🔧 Advanced Industry / Defense: Kawasaki, Mitsubishi Electric, Denso, JAXA
+  ➝ Patents, industrial secrets, space/military plans
+
+⚙️ Critical Infrastructure / Supply Chain: Port of Nagoya, NTT Com, Toyota, Tokushima Hospital
+  ➝ Physical disruption, logistics paralysis, resilience testing
+
+📰 Media, Platforms & Public Opinion: Kadokawa, Niconico
+  ➝ Narrative control, symbolism, large-scale identity leaks
+
+🟦 Japan: A Strategic Technological Target
+
+* Conflicts with China over technological supremacy
+* Strengthened military alliances (US, Australia, India) via the QUAD
+* Growing hostility from Chinese APT groups (MirrorFace, APT10)
+
+🟥 Fragility of Civil Infrastructure
+
+* Low resilience in hospital, port, and telecom sectors
+* Example: Port of Nagoya paralyzed for 3 days in 2023 → direct impact on Toyota
+
+🟨 Opportunistic Transnational Crime
+
+* Cybercriminal groups exploit weak spots (insurance gaps, poor backups)
+* Example: Massive data breach via BlackSuit in 2024 (Kadokawa/Niconico)
+
+
+🛡️ Japan’s Institutional Response
+
+* 📘 Revised National Cybersecurity Strategy (2021–2022)
+* 🛰️ Strengthening of the NISC (National Center for Incident Readiness)
+* 🤝 Expanded international cooperation:
+
+  * US: Cyber Defense Dialogue
+  * France: Bilateral cyber dialogue since 2021
+  * QUAD: Technical intelligence sharing
+
+
+🧩 Conclusion: A Global Actor in Cyber Transition
+
+Japan has become a prime attack surface due to its technological value, its tense geopolitical environment in Asia, and its ties with Western powers.
+Despite progress in its national cyber strategy, civilian sector resilience remains limited, and threats are evolving toward hybrid forms combining sabotage, extortion, and influence operations.
+
+Japan’s cyber future will depend on:
+
+* Its government’s ability to centralize a coherent response
+* Broader adoption of cybersecurity best practices in the private sector
+* Upskilling CTI teams and reinforcing regional cooperation
+
+
+✍️ Author
+Laëtitia Lafarge – DevOps & Cybersecurity student, passionate about CTI and Japan
+📍 Personal OSINT project as part of a portfolio (2025)
